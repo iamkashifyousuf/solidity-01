@@ -2,7 +2,7 @@
 
 This repository contains a basic Solidity smart contract named `SimpleStorage`, demonstrating how to store, retrieve, and map data on the Ethereum blockchain.
 
-##  Overview
+##  Overview:
 
 The `SimpleStorage` contract allows users to:
 - Store a single favorite number.
